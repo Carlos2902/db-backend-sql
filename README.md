@@ -1,3 +1,4 @@
+#Altered tables to make multiple relationships with PK and FK
 # db-backend-sql
 #designed db schema following the three methodology. Reviewed logical, internal and external schemas
 # database with sql updated create databases, alter the tables, and drop a table
